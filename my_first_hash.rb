@@ -2,7 +2,7 @@ def my_hash
   my_hash = {
     "Name" => "Monique",
     "Age" => "27",
-    "Location => "Greater New York City area"
+    "Location" => "Greater New York City area"
   }
 end
 
